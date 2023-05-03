@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**aurkaxi/aurkaxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [AshenDB](https://github.com/aurkaxi/ashendb/)
+- 🌱 I’m currently learning [Python](https://python.org/)
+<--! - 👯 I’m looking to collaborate on ... -->
+- 🤔 I’m looking for help with STUDYYYYY
+- 💬 Ask me about Pain
+- 📫 How to reach me: Don't. Open an Issue.
+- 😄 Pronouns: Helicopter
+- ⚡ Fun fact: I don't touch grass, I eat them
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Stats](https://github-readme-stats.vercel.app/api?username=aurkaxi&count_private=true&show_icons=true&theme=dracula)](https://github.com/aurkaxi/aurkaxi)
+[![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurkaxi&count_private=true&show_icons=true&theme=dracula&langs_count=10&size_weight=0.5&count_weight=0.5)](https://github.com/aurkaxi/aurkaxi)
