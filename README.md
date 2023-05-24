@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on [AshenDB](https://github.com/aurkaxi/ashendb/)
 - 🌱 I’m currently learning [Python](https://python.org/)
-<--! - 👯 I’m looking to collaborate on ... -->
 - 🤔 I’m looking for help with STUDYYYYY
 - 💬 Ask me about Pain
 - 📫 How to reach me: Don't. Open an Issue.
