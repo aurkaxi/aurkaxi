@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [AshenDB](https://github.com/aurkaxi/ashendb/)
-- 🌱 I’m currently learning [Python](https://python.org/)
-- 🤔 I’m looking for help with STUDYYYYY
+- 🌱 I’m currently learning [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- 🤔 I’m looking for help with mental health
 - 💬 Ask me about Pain
 - 📫 How to reach me: Don't. Open an Issue.
 - 😄 Pronouns: Helicopter
