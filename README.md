@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [AshenDB](https://github.com/aurkaxi/ashendb/)
-- 🌱 I’m currently learning [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- 🌱 I’m currently learning ~~[C](https://en.wikipedia.org/wiki/C_(programming_language))~~  [JAVA](https://www.java.com/en/)
 - 🤔 I’m looking for help with mental health
 - 💬 Ask me about Pain
 - 📫 How to reach me: Don't. Open an Issue.
