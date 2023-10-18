@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [AshenDB](https://github.com/aurkaxi/ashendb/)
-- 🌱 I’m currently learning ~~[C](https://en.wikipedia.org/wiki/C_(programming_language))~~  [JAVA](https://www.java.com/en/)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 🤔 I’m looking for help with mental health
 - 💬 Ask me about Pain
 - 📫 How to reach me: Don't. Open an Issue.
-- 😄 Pronouns: Helicopter
 - ⚡ Fun fact: I don't touch grass, I eat them
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=aurkaxi&count_private=true&show_icons=true&theme=dracula)](https://github.com/aurkaxi/aurkaxi)
